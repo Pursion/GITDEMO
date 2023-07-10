@@ -2,19 +2,16 @@
 
 - git是一个免费的、开源的分布式版本控制系统，可以快速高速地处理从小型到大型的各种项目
 
+Git 是一个免费的开源分布式版本控制系统，旨在快速高效地处理从小到大的项目。
+
 - git易于学习，占地面积小，性能极快。它具有廉价的本地库，方便的暂存区域和多个工作流分支等特性。其性能优于      等版本控制工具。
 
 ## 版本控制
 
 - 版本控制是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。
-
-
 - 其最重要的是可以记录文件修改历史记录，从而让用户查看历史版本，方便版本切换。
-
 - 是维护工程蓝图的标准作法，能追踪工程蓝图从诞生一直到定案的过程；
-
 - 版本控制也是一种软件工程技巧，借此能在软件开发的过程中，确保由不同人所编辑的同一程序文件都得到同步；
-
 - 简单来说，版本控制在软件开发中，可以帮助程序员进行代码的追踪、维护、控制等等一系列的操作。
 
 ## 类型（版本控制工具）
@@ -25,9 +22,12 @@
 
 ## 安装
 
-- Windows[安装](https://git-scm.com/download/win)
-- macOS[安装](https://git-scm.com/download/mac)
-- Linux/Unix[安装](https://git-scm.com/download/linux)
+- Windows
+  - <https://git-scm.com/download/win>
+- macOS
+  - <https://git-scm.com/download/mac>
+- Linux/Unix
+  - <https://git-scm.com/download/linux>
 
 ## Bash – CMD – GUI 区别
 
@@ -42,12 +42,6 @@
   - 基本上针对那些不喜欢黑屏（即命令行）编码的人；
   - 它提供了一个图形用户界面来运行 git 命令；
 
-## 工作流
-
-你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 工作目录，它持有实际文件；第二个是 暂存区（Index），它像个缓存区域，临时保存你的改动；最后是 HEAD，它指向你最后一次提交的结果。
-
-![Alt text](trees.png)
-
 ## 工作机制
 
 - 版本库（仓库repository）
@@ -55,26 +49,23 @@
 - 暂存区（stage/index）
 - 本地库（）
 
-代码托管中心是基于网络服务器的远程代码仓库，一般我们简单称为远程库
-
-github
-
-gitee
-
-gitlab
-
 ## 文件状态
 
 - 已提交
 - 已修改
 - 已暂存
-  
+
+## 工作流
+
+你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 工作目录，它持有实际文件；第二个是 暂存区（Index），它像个缓存区域，临时保存你的改动；最后是 HEAD，它指向你最后一次提交的结果。
+
+![Alt text](trees.png)
 
 ## 安装配置
 
 - 设置用户签名
 
-```linux
+```shell
 git config --global user.name （用户名）
 git config --global user.email （邮箱）
 ```
@@ -105,6 +96,14 @@ ssh密钥
 
 ## 远程仓库
 
+代码托管中心是基于网络服务器的远程代码仓库，一般我们简单称为远程库
+
+github
+
+gitee
+
+gitlab
+
 ## 实用小贴士
 
 内建的图形化 git：
@@ -117,6 +116,7 @@ git config format.pretty oneline
 git add -i
 
 ## 链接与资源
+
 图形化客户端
 GitX (L) (OSX, 开源软件)
 Tower (OSX)
@@ -138,8 +138,6 @@ Git官方网站
 
 <https://github.com/rogerdudler/git-guide>
 
-[1]: https://github.com/rogerdudler/git-guide
-
 ## 作者
 
 - 👀 I’m interested in ...
@@ -147,4 +145,4 @@ Git官方网站
 
 - 👋 Hi, I’m Pursion
 - 🌱 I’m currently learning Git
-- 📫 How to reach me 2744599315@qq.com# GITDEMO
+- 📫 How to reach me 2744599315
