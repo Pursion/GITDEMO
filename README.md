@@ -119,30 +119,17 @@ git add -i
 
 - 官方文档
 
+  - 尚硅谷
+
+  - 黑马程序员
+
+  - Git官方网站
+
+  - <https://github.com/rogerdudler/git-guide>
+
 - 书籍
 
 - 视频教程
-
-尚硅谷
-
-黑马程序员
-
-Git官方网站
-
-<https://github.com/rogerdudler/git-guide>
-
-图形化客户端
-GitX (L) (OSX, 开源软件)
-Tower (OSX)
-Source Tree (OSX, 免费)
-GitHub for Mac (OSX, 免费)
-GitBox (OSX, App Store)
-指南和手册
-Git 社区参考书
-专业 Git
-像 git 那样思考
-GitHub 帮助
-图解 Git
 
 ## 贡献指南
 
@@ -150,4 +137,4 @@ GitHub 帮助
 
 - 作者：安振辉
 
-- 邮箱：<2744599315@qq.com>
+- 邮箱：```2744599315@qq.com```
