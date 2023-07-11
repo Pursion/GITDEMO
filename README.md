@@ -131,8 +131,6 @@ Git官方网站
 
 <https://github.com/rogerdudler/git-guide>
 
-## 链接与资源
-
 图形化客户端
 GitX (L) (OSX, 开源软件)
 Tower (OSX)
