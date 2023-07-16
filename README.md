@@ -25,14 +25,8 @@
 - 设置用户签名
 
 ```shell
-git config --global user.name （用户名）
-git config --global user.email （邮箱）
-
-:<<!
-说明：签名的作用是区分不同操作者身份。
-用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。
-Git首次安装必须设置用户签名，否则无法提交代码。
-!
+git config --global user.name（用户名）
+git config --global user.email（邮箱）
 
 # 说明：签名的作用是区分不同操作者身份。
 # 用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。
@@ -42,6 +36,13 @@ Git首次安装必须设置用户签名，否则无法提交代码。
 ## Bash – CMD – GUI 区别
 
 - Bash，Unix shell 的一种，Linux 与 Mac OS X 都将它作为默认 shell。
+
+```shell
+  #- Git Bash 就是一个 shell，是 Windows 下的命令行工具，可以执行 Linux命令；
+  #- Git Bash 是基于 CMD 的，在 CMD 的基础上增添一些新的命令与功能；
+  #- 所以建议在使用的时候，用 Bash 更加方便；
+```
+
   - Git Bash 就是一个 shell，是 Windows 下的命令行工具，可以执行 Linux命令；
   - Git Bash 是基于 CMD 的，在 CMD 的基础上增添一些新的命令与功能；
   - 所以建议在使用的时候，用 Bash 更加方便；
