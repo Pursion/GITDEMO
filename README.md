@@ -12,20 +12,17 @@
 
 ## 类型（版本控制）
 
-- 本地版本控制系统
+- 本地式版本控制系统
 - 集中式版本控制系统
 - 分布式版本控制系统
 
 ## 安装配置
 
-- Windows
-  - <https://git-scm.com/download/win>
+- 安装：[官方链接](https://git-scm.com/)
 
-- macOS
-  - <https://git-scm.com/download/mac>
-
-- Linux/Unix
-  - <https://git-scm.com/download/linux>
+- 配置
+  - 设置用户签名
+    - 欧几哦啊大家
 
 ## Bash – CMD – GUI 区别
 
