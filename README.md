@@ -33,9 +33,6 @@ git config --global user.email （邮箱）
 # git首次安装必须设置用户签名，否则无法提交代码。
 ```
 
-
-说明：签名的作用是区分不同操作者身份。用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。git首次安装必须设置用户签名，否则无法提交代码。
-
 ## Bash – CMD – GUI 区别
 
 - Bash，Unix shell 的一种，Linux 与 Mac OS X 都将它作为默认 shell。
