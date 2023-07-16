@@ -38,14 +38,10 @@ git config --global user.email（邮箱）
 - Bash，Unix shell 的一种，Linux 与 Mac OS X 都将它作为默认 shell。
 
 ```shell
-#- Git Bash 就是一个 shell，是 Windows 下的命令行工具，可以执行 Linux命令；
-#- Git Bash 是基于 CMD 的，在 CMD 的基础上增添一些新的命令与功能；
-#- 所以建议在使用的时候，用 Bash 更加方便；
+Git Bash 就是一个 shell，是 Windows 下的命令行工具，可以执行 Linux命令；
+Git Bash 是基于 CMD 的，在 CMD 的基础上增添一些新的命令与功能；
+所以建议在使用的时候，用 Bash 更加方便；
 ```
-
-  - Git Bash 就是一个 shell，是 Windows 下的命令行工具，可以执行 Linux命令；
-  - Git Bash 是基于 CMD 的，在 CMD 的基础上增添一些新的命令与功能；
-  - 所以建议在使用的时候，用 Bash 更加方便；
 
 - Git CMD
   - 命令行提示符（CMD）是 Windows 操作系统上的命令行解释程序；
