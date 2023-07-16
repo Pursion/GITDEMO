@@ -18,9 +18,11 @@
 
 ## 安装配置
 
-- 安装：[官方链接](https://git-scm.com/)
-- 配置
-  - 设置用户签名
+安装：[官方链接](https://git-scm.com/)
+
+配置：
+
+- 设置用户签名
 
 ```shell
 git config --global user.name （用户名）
