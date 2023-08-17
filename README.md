@@ -10,7 +10,6 @@
 git config --global user.name（用户名）
 git config --global user.email（邮箱）
 
-
 # 说明：签名的作用是区分不同操作者身份；
 # 用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的；
 # Git首次安装必须设置用户签名，否则无法提交代码。
@@ -64,7 +63,7 @@ git config --global user.email（邮箱）
 
 ssh密钥
 
-## git忽略文件
+## Git 忽略文件
 
 - 一般我们总会有些文件无需纳入 Git 的管理，也不希望它们总出现在未跟踪文件列表。
   - 通常都是些自动生成的文件，比如日志文件，或者编译过程中创建的临时文件等；
@@ -85,13 +84,10 @@ ssh密钥
 
 ## 学习资源
 
-- 官方文档
-  - 尚硅谷
-  - 黑马程序员
-  - Git官方网站
-  - <https://github.com/rogerdudler/git-guide>
-- 书籍
-- 视频教程
+- 尚硅谷
+- 黑马程序员
+- Git官方网站
+- <https://github.com/rogerdudler/git-guide>
 
 ## 贡献指南
 

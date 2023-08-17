@@ -4,7 +4,6 @@
 git init
 
 # 创建新文件夹，打开，然后执行git init以创建新的 git 仓库。
-# Initialized empty Git repository in E:/Study/.git/
 ```
 
 ## 检出仓库
