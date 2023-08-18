@@ -87,7 +87,7 @@ ssh密钥
 - 尚硅谷
 - 黑马程序员
 - Git官方网站
-- <https://github.com/rogerdudler/git-guide>
+- [简明指南](https://github.com/rogerdudler/git-guide)
 
 ## 贡献指南
 

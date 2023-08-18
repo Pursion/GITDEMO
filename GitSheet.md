@@ -1,8 +1,7 @@
 ## 创建仓库 
 
-- ```git init```
-
 ```shell
+git init
 
 # 初始化本地库 创建版本库（廖雪峰） （获取GIT仓库）(创建新仓库)
 # 创建新文件夹，打开，然后执行git init以创建新的 git 仓库。
@@ -19,8 +18,6 @@ git clone
 # 如果是远端服务器上的仓库，你的命令会是这个样子：
 # git clone username@host:/path/to/repository
 ```
-
-
 
 ## 将文件添加到仓库（添加暂存区）
 
