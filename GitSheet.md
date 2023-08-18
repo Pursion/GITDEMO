@@ -1,5 +1,7 @@
 ## 创建仓库 
 
+- ```git init```
+
 ```shell
 git init
 ```
