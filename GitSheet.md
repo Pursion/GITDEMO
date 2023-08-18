@@ -1,18 +1,35 @@
 ## 创建仓库 
 
+### 语法
+
 ```shell
 git init
+```
+
+### 说明
+
+```
 # 初始化本地库 创建版本库（廖雪峰） （获取GIT仓库）(创建新仓库)
 # 创建新文件夹，打开，然后执行git init以创建新的 git 仓库。
 ```
 
-## 检出仓库
+## 克隆仓库
 
+### 语法
+
+```shell
+git clone
+```
+
+### 说明
+
+```
+检出仓库
 执行如下命令以创建一个本地仓库的克隆版本：
 git clone /path/to/repository
 如果是远端服务器上的仓库，你的命令会是这个样子：
 git clone username@host:/path/to/repository
-
+```
 
 ## 将文件添加到仓库（添加暂存区）
 
@@ -57,6 +74,7 @@ git diff
 git log（详细）
 git reflog（简介）
 ```
+
 log
 如果你想了解本地仓库的历史记录，最简单的命令就是使用:
 git log
