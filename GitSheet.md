@@ -1,4 +1,4 @@
-- 创建仓库 
+## 创建仓库 
 
 ```shell
 git init
@@ -7,7 +7,7 @@ git init
 # 创建新文件夹，打开，然后执行git init以创建新的 git 仓库。
 ```
 
-- 克隆仓库
+## 克隆仓库
 
 ```shell
 git clone
@@ -19,7 +19,7 @@ git clone
 # git clone username@host:/path/to/repository
 ```
 
-- 将文件添加到仓库（添加暂存区）
+## 将文件添加到仓库（添加暂存区）
 
 ```shell
 git add 文件名
