@@ -2,9 +2,7 @@
 
 ### 语法
 
-```shell
-git init
-```
+-```git init```
 
 ### 说明
 
